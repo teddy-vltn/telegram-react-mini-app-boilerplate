@@ -21,5 +21,6 @@ export default {
       },
     },
   },
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   plugins: [rippleui as any],
 } as Config;
